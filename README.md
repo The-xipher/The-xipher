@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @The-xipher Amith MP
 - 👀 I’m interested in development
-- 🌱 I’m currently learning flutter,kotlin..
-- 💞️ I’m looking to collaborate on app development
+- 🌱 I’m currently learning frontend of website develpment..
+- 💞️ I’m looking to collaborate on website development
 - 📫 https://www.instagram.com/arc_xipher_/?hl=en
 
 <!---
