@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amith MP</h1>
-<h3 align="center">I am a frontend developer and aspiring ML engineer</h3>
+<h3 align="center">I am a Developer</h3>
 
 - 🔭 I’m currently working on [Lunar Eye](https://github.com/The-xipher/Lunar-Eye)
 
