@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amith MP</h1>
-<h3 align="center">🚀 Full-Stack Developer | Spring Boot + Angular | Generative AI Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | Spring Boot + Angular | Agentic AI Enthusiast</h3>
 
 - 🔭 I’m currently building **Healthwise Sentinel** – an exciting project pushing the limits of development and creativity.  
 - 🌱 I’m exploring **Generative AI**, **Cloud Solutions**, and **Microservices** to level up my tech stack.  
