@@ -1,64 +1,74 @@
-<div align="left">
+<div align="center">
 
-# Amith M P
-**Full-Stack Developer** · `Spring Boot` · `Angular` · `Agentic AI`
+<h1>Hi 👋, I'm Amith MP</h1>
 
 <p>
-  <a href="https://drive.google.com/file/d/1gHpRwwjWKZjmBdsErQpjJFKqZgWViBEt/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-PDF-1F6FEB?style=flat-square&logo=googlesheets&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://linkedin.com/in/amith-mp">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/The-xipher">
-    <img src="https://img.shields.io/badge/GitHub-The--xipher-21262D?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:amithmp676@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amithmp676%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=E6EDF3" alt="Email" />
-  </a>
+  <strong>Full-Stack Developer</strong> · Spring Boot + Angular · Agentic AI Enthusiast
+</p>
+
+<!-- Native Tactile UI Action Bar -->
+<p>
+  <a href="https://drive.google.com/file/d/1gHpRwwjWKZjmBdsErQpjJFKqZgWViBEt/view?usp=sharing"><kbd>&nbsp;&nbsp;📑 Resume&nbsp;&nbsp;</kbd></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/amith-mp"><kbd>&nbsp;&nbsp;in LinkedIn&nbsp;&nbsp;</kbd></a>
+  &nbsp;
+  <a href="https://github.com/The-xipher"><kbd>&nbsp;&nbsp;⌘ GitHub&nbsp;&nbsp;</kbd></a>
+  &nbsp;
+  <a href="mailto:amithmp676@gmail.com"><kbd>&nbsp;&nbsp;📫 Email&nbsp;&nbsp;</kbd></a>
 </p>
 
 </div>
 
 <br />
 
-<a href="https://github.com/The-xipher">
-  <img src="./assets/status-card.svg" width="100%" alt="Amith M P Developer Status Card" />
-</a>
-
-<br />
-<br />
-
-## Toolkit
-
-#### Core & Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-161B22?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/Angular-161B22?style=flat-square&logo=angular&logoColor=DD0031)
-![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28)
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
-
-#### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=E6EDF3)
-![Google AI](https://img.shields.io/badge/Google_AI-161B22?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-
-#### Operations, Security & Web
-![Jira](https://img.shields.io/badge/Jira-161B22?style=flat-square&logo=jira&logoColor=2684FF)
-![Datadog](https://img.shields.io/badge/Datadog-161B22?style=flat-square&logo=datadog&logoColor=7748B6)
-![Checkmarx](https://img.shields.io/badge/Checkmarx-161B22?style=flat-square&logo=checkmarx&logoColor=54B848)
-![Splunk](https://img.shields.io/badge/Splunk-161B22?style=flat-square&logo=splunk&logoColor=FF6600)
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032)
+> [!NOTE]
+> 🔭 **Currently Building:** **Healthwise Sentinel** — an exciting project pushing the limits of development and creativity.  
+> 🌱 **Exploring:** Generative AI, Cloud Solutions, and Microservices to level up my tech stack.  
+> 💬 **Ask me about:** `Spring Boot` · `Angular` · `Firebase` · `Generative AI (ChatGPT & more)` · `Vibecoding sessions`
 
 <br />
 
-## Activity
+### Currently Building
 
-<p align="left">
-  <a href="https://github.com/The-xipher">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-xipher&bg_color=0D1117&color=8B949E&line=58A6FF&point=79C0FF&area=true&area_color=58A6FF&hide_border=false&border_color=21262D&custom_title=GitHub%20Activity" width="100%" alt="GitHub Activity Graph" />
+<p align="center">
+  <a href="https://github.com/The-xipher/Healthwise-Sentinel">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=The-xipher&repo=Healthwise-Sentinel&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF&border_color=30363D&border_radius=12" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=The-xipher&repo=Healthwise-Sentinel&bg_color=FFFFFF&title_color=1F2328&text_color=656D76&icon_color=0969DA&border_color=D0D7DE&border_radius=12" />
+      <img width="65%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-xipher&repo=Healthwise-Sentinel&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF&border_color=30363D&border_radius=12" alt="Healthwise Sentinel" />
+    </picture>
   </a>
+</p>
+
+<br />
+
+### Languages & Tools
+
+<!-- Auto Dark/Light App-Icon Dock -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring,angular,firebase,mysql,gcp,pytorch,tensorflow,html,css,js,git&perline=11&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,angular,firebase,mysql,gcp,pytorch,tensorflow,html,css,js,git&perline=11&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring,angular,firebase,mysql,gcp,pytorch,tensorflow,html,css,js,git&perline=11&theme=dark" alt="Languages and Tools" />
+  </picture>
+</p>
+
+<details open>
+<summary><strong>AI, DevOps &amp; Monitoring Stack</strong></summary>
+<br />
+
+- **Core Dev:** `Spring Boot` · `Angular` · `Firebase` · `MySQL`
+- **AI & Data:** `OpenAI` · `Google Vertex AI` · `PyTorch` · `TensorFlow`
+- **DevOps & Monitoring:** `Jira` · `Datadog` · `Checkmarx` · `Splunk`
+- **Web & VCS:** `HTML5` · `CSS3` · `JavaScript` · `Git`
+
+</details>
+
+<br />
+
+---
+
+<p align="center">
+  <strong>⚡ Vibecoding Motto</strong><br />
+  <sub><i>"Code with good energy, ship with great vibes 🚀"</i></sub>
 </p>
